@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DvrN4rjfRL7qzBf+dQEapEeJzsKmCPD8l5gsq7pJKAOz/5JiCAE7aPg2AS8k1o9WffAzmEFWUJ+v+/O4BL6Ngg==",
+  "dgSpecHash": "Z7ScmCvkfCko2qraRlfshuSnz/IwsSAAib9G+3ZAjEIdUfop7fODM93ep5W92MQ5TnKVe3KWa73grSnp9+lXnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
+  "projectFilePath": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

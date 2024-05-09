@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj": {}
+    "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj": {
+    "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
+        "projectUniqueName": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
         "projectName": "RazorPages",
-        "projectPath": "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
+        "projectPath": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\RazorPages.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\OneDrive\\Belgeler\\GitHub\\Ceng382_23_24_202011079\\RazorPages\\obj\\",
+        "outputPath": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\RazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
