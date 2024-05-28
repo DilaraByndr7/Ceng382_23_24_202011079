@@ -1,0 +1,154 @@
+[
+  {
+    "Message": "JSON file is empty. An empty reservations list is initialized",
+    "Timestamp": "2024-05-28T13:39:44.6400985+03:00"
+  },
+  {
+    "Message": "Reservations have been initialized.",
+    "Timestamp": "2024-05-28T13:39:44.703464+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.71696+03:00"
+  },
+  {
+    "Message": "New reservation added: Dilara for Room A-100 at 2024-07-13",
+    "Timestamp": "2024-05-28T13:39:44.7177395+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.7282187+03:00"
+  },
+  {
+    "Message": "New reservation added: Ahmet for Room A-156 at 2024-11-17",
+    "Timestamp": "2024-05-28T13:39:44.7366581+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.7382741+03:00"
+  },
+  {
+    "Message": "New reservation added: Lara for Room A-193 at 2024-01-21",
+    "Timestamp": "2024-05-28T13:39:44.7460843+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.7476679+03:00"
+  },
+  {
+    "Message": "New reservation added: Atlas for Room A-156 at 2024-11-11",
+    "Timestamp": "2024-05-28T13:39:44.7608477+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.7746253+03:00"
+  },
+  {
+    "Message": "New reservation removed: Lara for Room A-193 at 2024-01-21",
+    "Timestamp": "2024-05-28T13:39:44.7811948+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:39:44.7957324+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:39:44.805856+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:39:44.8136114+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.8471734+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:39:44.8583605+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.5519632+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.5420473+03:00"
+  },
+  {
+    "Message": "Reservations have been initialized.",
+    "Timestamp": "2024-05-28T13:41:42.5750405+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.5795943+03:00"
+  },
+  {
+    "Message": "New reservation added: Dilara for Room A-100 at 2024-07-13",
+    "Timestamp": "2024-05-28T13:41:42.5836015+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.5926798+03:00"
+  },
+  {
+    "Message": "New reservation added: Ahmet for Room A-156 at 2024-11-17",
+    "Timestamp": "2024-05-28T13:41:42.6041779+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.6148416+03:00"
+  },
+  {
+    "Message": "New reservation added: Lara for Room A-193 at 2024-01-21",
+    "Timestamp": "2024-05-28T13:41:42.6246381+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.6340456+03:00"
+  },
+  {
+    "Message": "New reservation added: Atlas for Room A-156 at 2024-11-11",
+    "Timestamp": "2024-05-28T13:41:42.6440668+03:00"
+  },
+  {
+    "Message": "Reservations have been saved to the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.6539777+03:00"
+  },
+  {
+    "Message": "New reservation removed: Lara for Room A-193 at 2024-01-21",
+    "Timestamp": "2024-05-28T13:41:42.6642844+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.6666541+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.6747771+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.6766577+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.687053+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.6944966+03:00"
+  },
+  {
+    "Message": "Reservations are printed.",
+    "Timestamp": "2024-05-28T13:41:42.7006339+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.7218104+03:00"
+  },
+  {
+    "Message": "Reservations have been loaded from the JSON file.",
+    "Timestamp": "2024-05-28T13:41:42.7329845+03:00"
+  }
+]
