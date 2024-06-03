@@ -62,8 +62,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/ListReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFJlc2VydmF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/MakePayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFrZVBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/MyReservations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlSZXNlcnZhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/ReserveRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXJ2ZVJvb20uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/pc/OneDrive/Masaüstü/deneme/Ceng382_23_24_202011079/lab11/loginDemo/Pages/Shared/_LoginPartial.cshtml]

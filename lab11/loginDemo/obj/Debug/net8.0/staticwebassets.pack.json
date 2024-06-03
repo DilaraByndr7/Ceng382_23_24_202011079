@@ -245,6 +245,34 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\Ind.jpg",
+      "PackagePath": "staticwebassets\\photos\\Ind.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\hotel.jpg",
+      "PackagePath": "staticwebassets\\photos\\hotel.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\index.jpg",
+      "PackagePath": "staticwebassets\\photos\\index.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\reservation.jpg",
+      "PackagePath": "staticwebassets\\photos\\reservation.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\room1.jpg",
+      "PackagePath": "staticwebassets\\photos\\room1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\room2.jpg",
+      "PackagePath": "staticwebassets\\photos\\room2.jpg"
+    },
+    {
+      "Id": "c:\\Users\\pc\\OneDrive\\Masaüstü\\deneme\\Ceng382_23_24_202011079\\lab11\\loginDemo\\wwwroot\\photos\\room3.jpg",
+      "PackagePath": "staticwebassets\\photos\\room3.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.loginDemo.props",
       "PackagePath": "build\\loginDemo.props"
     },

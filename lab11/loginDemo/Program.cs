@@ -14,10 +14,19 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 var connectionString2 = builder.Configuration.GetConnectionString("MyConnection") ?? throw new InvalidOperationException("Connection string 'MyConnection' not found.");
 builder.Services.AddDbContext<UserToDoDatabaseContext>(options =>options.UseSqlServer(connectionString2));  
 
-builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+// builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+//     .AddEntityFrameworkStores<ApplicationDbContext>();
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => 
+{
+    options.SignIn.RequireConfirmedAccount = false;
+    options.Password.RequireDigit = true;
+    options.Password.RequireLowercase = true;
+    options.Password.RequireNonAlphanumeric = true;
+    options.Password.RequireUppercase = true;
+    options.Password.RequiredLength = 6;
+})
     .AddEntityFrameworkStores<ApplicationDbContext>();
-
-
 
 builder.Services.AddRazorPages();
 
@@ -40,8 +49,11 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication(); /**/
 app.UseAuthorization();
 
 app.MapRazorPages();
+
+
 
 app.Run();
